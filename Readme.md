@@ -6,10 +6,10 @@
 
 # 🖤 ᴄʀᴇᴀᴛᴏʀ 🖤
 
-[![telegram badge](https://img.shields.io/badge/RiZoeL-30302f?style=for-the-badge&logo=telegram)](https://t.me/TheRiZoeL)
+[![telegram badge](https://img.shields.io/badge/ROCKSTAR-30302f?style=for-the-badge&logo=telegram)](https://t.me/TH3_R0CK5T4R)
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrRizoel/BotSpam.git) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/T5FR0CK5T4R/RiZoeLBotSpam) 
 # HOW GET STRING !! 
 ```sh
 - GO AND MAKE A BOT FROM BOTFATHER
